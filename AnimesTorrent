@@ -1,0 +1,10 @@
+#EXtm3u
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", --Mais Tv HD--
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", --11/05/2017--
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", [COLOR blue][I][B] -- Animes Torrent -- [/B][/I] [/COLOR]
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/Boruto-Naruto-Next-Generations.jpg " , Boruto: Naruto Next Generations EP01 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:45DC8996BBDCF3EF40BC3DCBB51973FCE0BDEC96&amp
