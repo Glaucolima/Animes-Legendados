@@ -26,3 +26,27 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:04A7396D90251EC918F5F248338F
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/Boruto-Naruto-Next-Generations.jpg " , Boruto: Naruto Next Generations EP07 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:A2732A29023A9A4BB3B3F3E970AD0A8117C5D53E&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/B9ZxFC6.jpg " , One Piece E788 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:b04234a4817004f8524e0400671985b65f007a27&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E01 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:CD46227D644B82D485364511A156379BC37A6913&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E02 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:760C90E9B6A67EF53B8702505485A8857A7C6458&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E03 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:FC35A57F965E1017BBC1E5301DA44428A4294ABC&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E04 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:B330FD11EAC58AA88856FCCF9787FCAED75103E8&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E05 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:24FECEA9D53F1B091B1C1CA30674462D84A81D92&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E06 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:BB03D3E167098A4189D31CF9432A0D277861E901&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E07 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:C56224A43356D63F0E81541183FB4C66D0F5DF91&amp
