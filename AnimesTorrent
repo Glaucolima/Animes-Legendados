@@ -7,19 +7,22 @@
 #EXTINF:-1 tvg-logo="--logo--" group-title="", [COLOR blue][I][B] -- Animes Torrent -- [/B][/I] [/COLOR]
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/Boruto-Naruto-Next-Generations.jpg " , Boruto: Naruto Next Generations EP01 ,
-http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/BRTNRTNXGRNT01EP001.mp4
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:BDB089529F95E663ED57DB532558E8250BE26A4B&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/Boruto-Naruto-Next-Generations.jpg " , Boruto: Naruto Next Generations EP02 ,
-http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/BRTNRTNXGRNT01EP002.mp4
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:4373F3BEB4E129B6D0B1C753930E275CAF68B218&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/Boruto-Naruto-Next-Generations.jpg " , Boruto: Naruto Next Generations EP03 ,
-http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/BRTNRTNXGRNT01EP003.mp4
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:A005DCFEBA1013C9CB148D32D33681D875DAD69E&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/Boruto-Naruto-Next-Generations.jpg " , Boruto: Naruto Next Generations EP04 ,
-http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/BRTNRTNXGRNT01EP004.mp4
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:1906BEDFFA6FD31E1A90428B8CC94488299829C6&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/Boruto-Naruto-Next-Generations.jpg " , Boruto: Naruto Next Generations EP05 ,
-http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/BRTNRTNXGRNT01EP005.mp4
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:ef5c714102a772af05a4f4c3fd2ebd330de16a5d&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/Boruto-Naruto-Next-Generations.jpg " , Boruto: Naruto Next Generations EP06 ,
-http://cd1.animakai.tv/teste/hd/258.mp4
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:04A7396D90251EC918F5F248338FE76173126EE3&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/Boruto-Naruto-Next-Generations.jpg " , Boruto: Naruto Next Generations EP07 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:A2732A29023A9A4BB3B3F3E970AD0A8117C5D53E&amp
