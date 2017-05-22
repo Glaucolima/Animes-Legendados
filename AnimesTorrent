@@ -50,3 +50,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:BB03D3E167098A4189D31CF9432A0D277
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E07 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:C56224A43356D63F0E81541183FB4C66D0F5DF91&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E08 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:28b1c19303dcf3775bcfdbae31d9ae64f5d719ef&amp
