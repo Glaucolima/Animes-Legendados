@@ -27,6 +27,18 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:3BB12A74F7D9E94A44576015EFEA
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i3.wp.com/comandotorrents.com/wp-content/uploads/2017/04/Boruto_1temporada.jpg" , Boruto: Naruto Next Generations EP07 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:A2732A29023A9A4BB3B3F3E970AD0A8117C5D53E&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/B9ZxFC6.jpg " , One Piece E784 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:C7464D2E70B2C2EE28DA935C10A78FFF1C62348D&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/B9ZxFC6.jpg " , One Piece E785 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:81AA6DBBAA76A56AA00E22CB1D88277FA86767F5&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/B9ZxFC6.jpg " , One Piece E786 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:22B8F13B48E4E42F9B26A307FCD0A83E506C251A&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/B9ZxFC6.jpg " , One Piece E787 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:A7486EBBE0B2F7485D771131AA28FAC598DA38DE&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/B9ZxFC6.jpg " , One Piece E788 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:b04234a4817004f8524e0400671985b65f007a27&amp
 
