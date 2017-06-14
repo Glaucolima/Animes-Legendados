@@ -30,6 +30,15 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:A2732A29023A9A4BB3B3F3E970AD
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i3.wp.com/comandotorrents.com/wp-content/uploads/2017/04/Boruto_1temporada.jpg" , Boruto: Naruto Next Generations EP08 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:2f44859fe54825cdbcc6547caf8ffb8384529b18&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i3.wp.com/comandotorrents.com/wp-content/uploads/2017/04/Boruto_1temporada.jpg" , Boruto: Naruto Next Generations EP09 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:20633156673f9908a1538e679b7b371cd2bc2c55&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i3.wp.com/comandotorrents.com/wp-content/uploads/2017/04/Boruto_1temporada.jpg" , Boruto: Naruto Next Generations EP10 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:a17dd09a89ea9cae41370d9c7d1dba1e9b0f2d47&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i3.wp.com/comandotorrents.com/wp-content/uploads/2017/04/Boruto_1temporada.jpg" , Boruto: Naruto Next Generations EP11 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:8e7031c1bd187a7b5b71ec5a2554b438760b9976&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/B9ZxFC6.jpg " , One Piece E783 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:0119eaa898afd1364b33fcb0bc01cec7c10b5ea5&amp
 
