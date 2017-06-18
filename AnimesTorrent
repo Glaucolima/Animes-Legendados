@@ -101,3 +101,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:a522473fd150b6b5b97f092da008
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E11 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:1b9cce264d62bbdcc8c77a2caa24d22ee2fe33a1&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E12 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:c1a5e723fd5882581658c7b4e5fc3170ddd8d7dc&amp
