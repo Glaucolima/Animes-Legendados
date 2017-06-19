@@ -69,6 +69,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:c77031380f0c062b39154fec0f49
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/B9ZxFC6.jpg " , One Piece E792 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:e56bb0743216d02ad5c008bd5376d3854100cd86&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/B9ZxFC6.jpg " , One Piece E793 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:2F771B227306679140D56046CA76645EFDA9EA4B&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/6kEk5ta.jpg " , Shingeki no Kyojin S02 E01 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:CD46227D644B82D485364511A156379BC37A6913&amp
 
